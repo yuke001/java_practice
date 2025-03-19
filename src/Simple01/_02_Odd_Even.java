@@ -1,6 +1,6 @@
 package Simple01;
 
-public class Odd_Even_02 {
+public class _02_Odd_Even {
 
 	public static void main(String args[]) {
 

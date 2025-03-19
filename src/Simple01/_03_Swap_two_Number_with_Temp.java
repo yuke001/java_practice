@@ -1,6 +1,6 @@
 package Simple01;
 
-public class Swap_two_Number_with_Temp_03 {
+public class _03_Swap_two_Number_with_Temp {
 	
 	public static void main(String args[]) {
 		
